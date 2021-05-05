@@ -19,7 +19,7 @@ def banner():
                     | |       \  /\  /    \__ \ | (_| | | |          | |_) | | |__| | | |  | | | |_) |  / ____ \    ☢️
                     |_|        \/  \/     |___/  \__,_| |_|          |____/   \____/  |_|  |_| |____/  /_/    \_\                                                                                          
                     
-                                                      By: akshaykalucha3
+                                                      By: vishvam s
                     Note : I won't be responsible for any damage caused by this script, Use at your own risk
     
     ''')
